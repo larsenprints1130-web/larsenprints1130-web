@@ -1,5 +1,12 @@
-## Hi there 👋
+## Welcome!
 
+I'm Larsen, A Mechanical Engineering student at Liberty University. This is my personal Github page
+
+I'm a junior right now, and I'm seeking a summer 2027 internship if you know anybody.
+
+My skills are varied, but they mostly lie in the mechanical design realm. I am a proficient 3D modeler using programs like SolidWorks, Autodesk Fusion, Onshape, and more. I've used those programs along with 3D printers and many other tools to practice rapid prototyping in a litany of projects, both personal and professional.
+
+If you think I could be a helpful member of your team (or just want to chat, I suppose) then please reach out to me at larsenprints1130@gmail.com!
 <!--
 **larsenprints1130-web/larsenprints1130-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
