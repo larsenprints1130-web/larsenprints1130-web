@@ -6,7 +6,7 @@
 
   My skills are varied, but they mostly lie in the mechanical design realm. I am a proficient 3D modeler using programs like SolidWorks, Autodesk Fusion, Onshape, and more. I've used those programs along with 3D printers and many other tools to practice rapid prototyping in a litany of projects, both personal and professional.
 
-  My resume is around here somewhere but I suggest you actually go to my formal website [HERE](lmhale.net) first.
+  My resume is around here somewhere but I suggest you actually go to my formal website [HERE](https://lmhale.net) first.
 
   If you think I could be a helpful member of your team (or just want to chat, I suppose) then please reach out to me at larsenprints1130@gmail.com!
 <!--
